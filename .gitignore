@@ -1,0 +1,10 @@
+*.sw*
+Session.vim
+*.egg-info/
+__pycache__/
+build/
+dist/
+*.egg
+*.zip
+tags
+*.~lock*
